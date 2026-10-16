@@ -2,7 +2,8 @@
 
 A simple, clickable to-do list skin for [Rainmeter](https://www.rainmeter.net/) (Windows 10/11).
 
-![Screenshot] <img width="481" height="374" alt="105304" src="https://github.com/user-attachments/assets/1c8dc032-29fa-4bb2-beff-a14f4c30010b" />
+<img width="459" height="314" alt="image" src="https://github.com/user-attachments/assets/4ffba9df-9371-469d-80ce-8a8316ae2b2c" />
+
 
 
 ## Features
